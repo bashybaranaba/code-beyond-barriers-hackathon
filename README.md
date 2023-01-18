@@ -5,14 +5,14 @@
 
 ### Team: Binary Bandits
 
-#### Hackathon Theme
+#### Good Governance
 
 ##### Team Members
 
 - Baranaba Mugabane, ~ fullstack
 - Peter Nduati, ~ frontend dev
 - Clinton Njogu, ~ solidity dev
--
+- Edwin Main, ~ idea guy/product advisor
   
 #### Project Description
 Citizen journalism refers to the act of members of the general public playing an active role in the process of collection, reporting, analyzing, and disseminating news and information. Citizen journalism plays a significant role in governance as it promotes accountability, transparency, and civic engagement. It supports democracy and amplifies the voices of marginalized communities. However, credibility and quality control pose a major challenge. Currently, validation and verification of information gained from citizen reporting is time-consuming and is faced with limited resources.
