@@ -28,7 +28,7 @@ Items with a high number of votes for each region are then escalated to regional
 
 
 #### URLs
-##### Protottype
+##### Prototype
 https://taarifu.vercel.app/
 
 #### Presentation
