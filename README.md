@@ -31,6 +31,9 @@ Items with a high number of votes for each region are then escalated to regional
 ##### Prototype
 https://taarifu.vercel.app/
 
+##### Source Code
+https://github.com/bashybaranaba/taarifu
+
 #### Presentation
 
 https://www.canva.com/design/DAFYPbP4Xlo/nStFvGUYWfISnyMW7MYQow/edit?utm_content=DAFYPbP4Xlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
