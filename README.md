@@ -33,7 +33,7 @@ https://taarifu.vercel.app/
 
 #### Presentation
 
-https://www.canva.com/design/DAFYPbP4Xlo/nStFvGUYWfISnyMW7MYQow/edit?utm_content=DAFYPbP4Xlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFYPbP4Xlo/nStFvGUYWfISnyMW7MYQow
 
 #### Next Steps
 To turn this prototype to a working solution the UI needs to be improved and provide better error handling.
