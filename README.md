@@ -36,6 +36,6 @@ https://www.canva.com/design/DAFYPbP4Xlo/nStFvGUYWfISnyMW7MYQow/view?utm_content
 
 #### Next Steps
 To turn this prototype to a working solution the UI needs to be improved and provide better error handling.
-The prototype does not take into account the members regions. The next ste would be to include this so that members can post and vote on issues relevant to their regions
+The prototype does not take into account the members regions. The next step would be to include this so that members can post and vote on issues relevant to their regions
 
 
