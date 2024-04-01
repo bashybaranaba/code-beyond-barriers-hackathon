@@ -12,7 +12,7 @@
 - Baranaba Mugabane, ~ fullstack
 - Peter Nduati, ~ frontend dev
 - Clinton Njogu, ~ solidity dev
-- Edwin Main, ~ idea guy/product advisor
+- Edwin Maina, ~ idea guy/product advisor
   
 #### Project Description
 ##### Background
