@@ -22,20 +22,20 @@ This project aims to leverage blockchain technology to create a decentralized ci
 
 
 #### Summary
-The platform will allow members to submit news and information for review by the community and vote on the credibility and relevance of information submitted by other members based on their specific regions. Members can vote multiple times on an items but with after a certain period of timw which is made possible by a time-locking mechanism.
+The platform will allow members to submit news and information for review by the community and vote on the credibility and relevance of information submitted by other members based on their specific regions. Members can vote multiple times on items but after a certain period of time which is made possible by a time-locking mechanism.
 Items with a high number of votes for each region are then escalated to regional validators selected by the community, who verify the credibility and relevance of the information and further escalate the matter.
 
 
 
 #### URLs
-##### Protottype
+##### Prototype
 https://taarifu.vercel.app/
 
 #### Presentation
 https://www.canva.com/design/DAFYPbP4Xlo/nStFvGUYWfISnyMW7MYQow/view?utm_content=DAFYPbP4Xlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 #### Next Steps
-To turn this prototype to a working solution the UI needs to be improved and provide better error handling.
-The prototype does not take into account the members regions. The next step would be to include this so that members can post and vote on issues relevant to their regions
+To turn this prototype into a working solution the UI needs to be improved and provide better error handling.
+The prototype does not take into account the members' regions. The next step would be to include this so that members can post and vote on issues relevant to their regions
 
 
